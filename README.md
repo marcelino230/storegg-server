@@ -16,7 +16,7 @@ Build with:
 
 ## App Url
 
-[Open Admin App](https://nada-bwa-store-gg.herokuapp.com/)
+[Open Admin App](https://marcelstoregg-server.herokuapp.com/)
 
 
 [REST Api Documentation](https://documenter.getpostman.com/view/10944704/UyxdLUdf)
